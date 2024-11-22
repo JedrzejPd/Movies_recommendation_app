@@ -1,0 +1,74 @@
+{
+  "mainCast": [
+    {
+      "id": 53,
+      "name": "Samuel L. Jackson"
+    },
+    {
+      "id": 2511,
+      "name": "John Heard"
+    }
+  ],
+  "directors": [
+    {
+      "id": 10173,
+      "name": "Kevin Reynolds"
+    }
+  ],
+  "year": 1997,
+  "entityName": "film",
+  "subType": "film_cinema",
+  "description": {
+    "id": 113391,
+    "synopsis": "W systemie edukacji znajduj\u0105cym si\u0119 na kraw\u0119dzi upadku, jeden cz\u0142owiek zosta\u0142 doprowadzony do ostateczno\u015bci. Trevor Garfield, oddany swojej pracy nauczyciel fizyki w jednej ze szk\u00f3\u0142 na Brooklynie, walczy o prac\u0119 w systemie, w kt\u00f3rym pogo\u0144 za wiedz\u0105 musi czasem ust\u0105pi\u0107 miejsca walce o przetrwanie. Obserwuje jak szko\u0142a zamienia si\u0119 w stref\u0119 wojny. Kiedy Trevor odmawia przepuszczenia na egzaminie jednego ze swoich uczni\u00f3w, ten w rewan\u017cu rani nauczyciela no\u017cem i zostawia go na kraw\u0119dzi \u015bmierci. Rok p\u00f3\u017aniej zraniony i zachwiany wewn\u0119trznie Trevor powraca do nauczania w Los Angeles, gdzie znajduje taki sam \u015bwiat pe\u0142en przemocy. ",
+    "locale": "pl_PL",
+    "sourceType": 7,
+    "main": true,
+    "creationDate": "2024-11-22T21:21:23.717714819"
+  },
+  "coverPhoto": {
+    "id": 5190,
+    "photo": {
+      "id": 238562,
+      "film": 1,
+      "sourcePath": "/00/01/1/238562_5.$.jpg",
+      "fileExtension": ".jpg",
+      "maxDimensionIndex": 3
+    },
+    "mobilePath": "/00/01/1/5190.$.jpg",
+    "verticalDisplacementInPercent": 1
+  },
+  "title": {
+    "title": "Paragraf 187",
+    "country": "PL",
+    "lang": "pl"
+  },
+  "originalTitle": {
+    "title": "One Eight Seven",
+    "country": "US",
+    "lang": "en",
+    "original": true
+  },
+  "poster": {
+    "path": "/00/01/1/7418875_1.$.jpg",
+    "fileExtension": ".jpg"
+  },
+  "genres": [
+    {
+      "id": 24,
+      "name": {
+        "text": "Thriller"
+      },
+      "nameKey": "24"
+    }
+  ],
+  "countries": [
+    {
+      "id": 53,
+      "code": "US"
+    }
+  ],
+  "duration": 120,
+  "siteRecommends": false,
+  "plotOrDescriptionSynopsis": "W systemie edukacji znajduj\u0105cym si\u0119 na kraw\u0119dzi upadku, jeden cz\u0142owiek zosta\u0142 doprowadzony do ostateczno\u015bci. Trevor Garfield, oddany swojej pracy nauczyciel fizyki w jednej ze szk\u00f3\u0142 na Brooklynie, walczy o prac\u0119 w systemie, w kt\u00f3rym pogo\u0144 za wiedz\u0105 musi czasem ust\u0105pi\u0107 miejsca walce o przetrwanie. Obserwuje jak szko\u0142a zamienia si\u0119 w stref\u0119 wojny. Kiedy Trevor odmawia przepuszczenia na egzaminie jednego ze swoich uczni\u00f3w, ten w rewan\u017cu rani nauczyciela no\u017cem i zostawia go na kraw\u0119dzi \u015bmierci. Rok p\u00f3\u017aniej zraniony i zachwiany wewn\u0119trznie Trevor powraca do nauczania w Los Angeles, gdzie znajduje taki sam \u015bwiat pe\u0142en przemocy. "
+}
